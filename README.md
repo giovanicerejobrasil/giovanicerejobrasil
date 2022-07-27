@@ -65,4 +65,4 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
 </div>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/giovanicerejobrasil/giovanicerejobrasil/blob/output/github-contribution-grid-snake.svg)
