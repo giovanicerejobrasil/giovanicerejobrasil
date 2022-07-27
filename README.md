@@ -8,14 +8,14 @@
   <li>📧 Contate-me no email: giovanicerejobrasil@gmail.com</li>
 </ul>
 
-<div style="text-align: center;">
+<div align="center">
  <a href="https://github.com/giovanicerejobrasil">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanicerejobrasil&layout=compact&langs_count=7&theme=dark"/>
  </a>
 </div>
 
-<div>
+<div align="center">
   <h3>Linguagens</h3>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
@@ -29,7 +29,7 @@
   
 </div>
 
-<div style="display: inline-block; text-align: center;">
+<div align="center">
   <h3>Não linguagens</h3>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   
@@ -49,7 +49,7 @@
           
 </div>
 
-<div style="display: inline-block; text-align: center;">
+<div align="center">
   <h3>Outros</h3>
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" />
