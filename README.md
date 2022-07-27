@@ -15,7 +15,7 @@
  </a>
 </div>
 
-<div style="display: inline-block; text-align: center;">
+<div>
   <h3>Linguagens</h3>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
