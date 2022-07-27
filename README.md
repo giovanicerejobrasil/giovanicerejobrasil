@@ -66,5 +66,5 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/giovanicerejobrasil/giovanicerejobrasil/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/giovanicerejobrasil/giovanicerejobrasil/blob/output/github-contribution-grid-snake.svg)
 </div>
