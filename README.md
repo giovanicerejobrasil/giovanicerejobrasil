@@ -65,6 +65,6 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
 </div>
 
-<div style="display: inline-block; text-align: center;">
+<div>
 	![Snake animation](https://github.com/giovanicerejobrasil/giovanicerejobrasil/blob/output/github-contribution-grid-snake.svg)
 </div>
