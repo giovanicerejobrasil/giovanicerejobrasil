@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>Linguagens</h3>
+  <h3>Linguagens de Programação</h3>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <h3>Não linguagens</h3>
+  <h3>Não Linguagens de Programação</h3>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
