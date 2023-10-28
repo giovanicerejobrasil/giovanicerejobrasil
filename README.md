@@ -1,7 +1,7 @@
 <h1>Hello World! 🌎</h1>
 
 <ul>
-  <li>🏢 Hoje trabalho com FULLSTACK PHP</li>
+  <li>🏢 Hoje trabalho com0 Desenvolvedor de Sistemas Web Pleno</li>
   <li>📖 Estou estudando JavaScript, Typescript, React, Laravel e VueJS</li>
   <li>🎮 Game Dev iniciante em Unity</li>
   <li>📧 Contate-me no email: giovanicerejobrasil@gmail.com</li>
