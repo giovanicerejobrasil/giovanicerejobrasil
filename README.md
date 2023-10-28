@@ -50,19 +50,13 @@
 
 <div align="center">
   <h3>Outros</h3>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 </div>
-
-![Snake Game](https://github.com/giovanicerejobrasil/giovanicerejobrasil/blob/output/github-contribution-grid-snake.svg)
