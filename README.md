@@ -2,9 +2,8 @@
 
 <ul>
   <li>🏢 Hoje trabalho com FULLSTACK PHP</li>
-  <li>📖 Estou estudando PHP, JavaScript, Typescript, HTML5, CSS3, MySQL</li>
-  <li>📖 Estou estudando também Laravel, VueJS, React</li>
-  <li>🎮 Game Dev iniciante em Unity e GameMaker Studio 2</li>
+  <li>📖 Estou estudando JavaScript, Typescript, React, Laravel e VueJS</li>
+  <li>🎮 Game Dev iniciante em Unity</li>
   <li>📧 Contate-me no email: giovanicerejobrasil@gmail.com</li>
 </ul>
 
