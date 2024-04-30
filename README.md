@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&locale=pt-br&hide_title=false&layout=compact&langs_count=6&theme=radical&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=giovanicerejobrasil&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&locale=pt-br&hide_title=false&layout=compact&langs_count=6&theme=radical&hide_border=true" height="195" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=giovanicerejobrasil&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="195" alt="streak graph"  />
 </div>
 
 ###
