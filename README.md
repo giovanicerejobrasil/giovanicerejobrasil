@@ -11,6 +11,6 @@
 <div align="left">
  <a href="https://github.com/giovanicerejobrasil">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark&locale=pt-br" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanicerejobrasil&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&locale=pt-br"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanicerejobrasil&layout=donut-vertical&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&locale=pt-br"/>
  </a>
 </div>
