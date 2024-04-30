@@ -10,8 +10,7 @@
 
 <div align="left">
  <a href="https://github.com/giovanicerejobrasil">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanicerejobrasil&layout=compact&langs_count=7&theme=dark"/>
  </a>
 </div>
