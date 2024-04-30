@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋!</h2>
-<h2 align="center">My name is Giovani Cerejo Brasil and I'm a FullStack Web Developer from Brazil ![PeepoBrazilGIF](https://github.com/giovanicerejobrasil/giovanicerejobrasil/assets/26189484/d04f6f7a-c0e5-4bd6-9e1e-9ca5984c920e)
-!</h2>
+<h2 align="center">My name is Giovani Cerejo Brasil and I'm a FullStack Web Developer from Brazil ![PeepoBrazilGIF](https://github.com/giovanicerejobrasil/giovanicerejobrasil/assets/26189484/d04f6f7a-c0e5-4bd6-9e1e-9ca5984c920e)!</h2>
 
 ###
 
