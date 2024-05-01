@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋!</h2>
-<h2 align="center">My name is Giovani Cerejo Brasil and I'm a FullStack Web Developer from Brazil!</h2>
+<h2 align="center">Hi everybody 👋!</h2>
+<h2 align="center">My name is Giovani Cerejo Brasil and I'm a FullStack Web Developer from Brazil ✌🏽!</h2>
 
 ###
 
