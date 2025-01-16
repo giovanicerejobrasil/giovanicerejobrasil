@@ -1,5 +1,7 @@
 <h2 align="center">Hi everybody 👋!</h2>
-<h2 align="center">My name is Giovani Cerejo Brasil and I'm a Software and Web Developer Full Stack from Brazil ✌🏽!</h2>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=2000&width=440&lines=FullStack+Developer;Game+Developer;3D+Modeler" alt="Typing SVG" /></a>
+</h2>
 
 ###
 
