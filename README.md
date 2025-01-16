@@ -20,37 +20,7 @@
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=html5&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=css3&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=tailwindcss&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=bootstrap&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=javascript&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=typescript&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=nodejs&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=reactjs&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=vuejs&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" />
 </div>
 
 <div align="center">
