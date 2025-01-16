@@ -1,12 +1,12 @@
 <h2 align="center">Hi everybody 👋!</h2>
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=2000&color=D83B7D&center=true&width=800&lines=Full-stack+Web+and+Software+Developer;Game+Developer;3D+Modeler" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=2000&color=D83B7D&center=true&width=800&lines=Full-stack+Web+and+Software+Developer;Game+Developer;3D+Modeler" alt="Typing SVG" /></a>
 </h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/giovanibrasiloficial"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/giovanibrasiloficial" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/giovani-cerejo-brasil/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/giovani-cerejo-brasil/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
