@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true" width="550" height="195" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&hide_title=false&layout=compact&langs_count=6&theme=radical&hide_border=true" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&hide_title=false&layout=compact&langs_count=6&theme=radical&hide_border=true" height="195" width="550" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giovanicerejobrasil&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
