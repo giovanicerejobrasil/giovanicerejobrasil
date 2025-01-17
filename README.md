@@ -34,8 +34,11 @@
   <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/code igniter-code igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/java-java?style=for-the-badge&logo=java&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/c#-c#?style=for-the-badge&logo=csharp&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/python-python?style=for-the-badge&logo=python&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/pyside6-pyside6?style=for-the-badge&logo=pyside6&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/django-django?style=for-the-badge&logo=django&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/pygame-pygame?style=for-the-badge&logo=pygame&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/csharp-csharp?style=for-the-badge&logo=csharp&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mysql-mysql?style=for-the-badge&logo=mysql&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mariadb-mariadb?style=for-the-badge&logo=mariadb&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/postgresql-postgresql?style=for-the-badge&logo=posrtgresql&color=%233c3c3c">
