@@ -4,10 +4,17 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/giovanibrasiloficial" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/giovani-cerejo-brasil/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/c/giovanibrasiloficial" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/youtube-youtube?style=for-the-badge&logo=youtube&color=%233c3c3c">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/giovani-cerejo-brasil/" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&logo=linkedin&color=%233c3c3c">
+  </a>
+  
+  <a href="mailto:giovanicerejobrasil@gmail.com" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=gmail&color=%233c3c3c">
+  </a>
 </p>
 
 <div align="center">
@@ -21,12 +28,12 @@
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/html-html?style=for-the-badge&logo=html5&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/tailwind css-tailwind css?style=for-the-badge&logo=tailwind&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/tailwind_css-tailwind_css?style=for-the-badge&logo=tailwind&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/bootstrap-bootstrap?style=for-the-badge&logo=bootstrap&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-javascript?style=for-the-badge&logo=javascript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/typescript-typescript?style=for-the-badge&logo=typescript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/nodejs-nodejs?style=for-the-badge&logo=nodejs&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/express.js-express.js?style=for-the-badge&logo=expressjs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/expressjs-expressjs?style=for-the-badge&logo=expressjs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/reactjs-reactjs?style=for-the-badge&logo=react&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vuejs-vuejs?style=for-the-badge&logo=vuejs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vite-vite?style=for-the-badge&logo=vite&color=%233c3c3c">
@@ -35,7 +42,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/electron-electron?style=for-the-badge&logo=electron&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/code igniter-code igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/code_igniter-code_igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/python-python?style=for-the-badge&logo=python&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/django-django?style=for-the-badge&logo=django&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/pygame-pygame?style=for-the-badge&logo=pygame&color=%233c3c3c">
@@ -51,7 +58,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/github-github?style=for-the-badge&logo=github&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/gitlab-gitlab?style=for-the-badge&logo=gitlab&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/postman-postman?style=for-the-badge&logo=postman&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/visual studio code-visual studio code?style=for-the-badge&logo=visualstudiocode&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/visual_studio_code-visual_studio_code?style=for-the-badge&logo=visualstudiocode&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/phpstorm-phpstorm?style=for-the-badge&logo=phpstorm&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/webstorm-webstorm?style=for-the-badge&logo=webstorm&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/jira-jira?style=for-the-badge&logo=jira&color=%233c3c3c">
@@ -59,7 +66,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/slack-slack?style=for-the-badge&logo=slack&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/filezilla-filezilla?style=for-the-badge&logo=filezilla&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/dbeaver-dbeaver?style=for-the-badge&logo=dbeaver&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/github pages-github pages?style=for-the-badge&logo=github&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/github_pages-github_pages?style=for-the-badge&logo=github&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vercel-vercel?style=for-the-badge&logo=vercel&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/notion-notion?style=for-the-badge&logo=notion&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/adobe-adobe?style=for-the-badge&logo=adobe&color=%233c3c3c">
@@ -71,29 +78,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/gimp-gimp?style=for-the-badge&logo=gimp&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/inkscape-inkscape?style=for-the-badge&logo=inkscape&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/photopea-photopea?style=for-the-badge&logo=photopea&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/google chrome-google chrome?style=for-the-badge&logo=googlechrome&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/google_chrome-google_chrome?style=for-the-badge&logo=googlechrome&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/obs-obs?style=for-the-badge&logo=obs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/blender-blender?style=for-the-badge&logo=blender&color=%233c3c3c">
 </div>
-
-###
-
-<div align="center">
-   <a href="https://www.linkedin.com/in/giovani-cerejo-brasil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-  <a href="mailto:giovanicerejobrasil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
-  </a>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/giovanicerejobrasil/giovanicerejobrasil/output/snake.svg" alt="Snake animation" />
-
-###
