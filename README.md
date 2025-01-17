@@ -19,10 +19,20 @@
 ###
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/html-html?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=html5&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/html-html?style=for-the-badge&logo=html5&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/tailwind css-tailwind css?style=for-the-badge&logo=tailwind&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/bootstrap-bootstrap?style=for-the-badge&logo=bootstrap&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-javascript?style=for-the-badge&logo=javascript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/typescript-typescript?style=for-the-badge&logo=typescript&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/nodejs-nodejs?style=for-the-badge&logo=nodejs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/react-react?style=for-the-badge&logo=reactjs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/vuejs-vuejs?style=for-the-badge&logo=vuejs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/vite-vite?style=for-the-badge&logo=vite&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/nextjs-nextjs?style=for-the-badge&logo=nextjs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
