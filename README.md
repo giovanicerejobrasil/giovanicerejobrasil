@@ -26,13 +26,13 @@
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-javascript?style=for-the-badge&logo=javascript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/typescript-typescript?style=for-the-badge&logo=typescript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/nodejs-nodejs?style=for-the-badge&logo=nodejs&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/react-react?style=for-the-badge&logo=reactjs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/reactjs-reactjs?style=for-the-badge&logo=react&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vuejs-vuejs?style=for-the-badge&logo=vuejs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vite-vite?style=for-the-badge&logo=vite&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/nextjs-nextjs?style=for-the-badge&logo=nextjs&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/jquery-jquery?style=for-the-badge&logo=jquery&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
