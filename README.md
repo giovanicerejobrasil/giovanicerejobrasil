@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css&logoColor=%23fafafa&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
 </div>
 
 <div align="center">
