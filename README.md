@@ -34,15 +34,25 @@
   <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/code igniter-code igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/java-java?style=for-the-badge&logo=java&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/c#-c#?style=for-the-badge&logo=csharp&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mysql-mysql?style=for-the-badge&logo=mysql&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mariadb-mariadb?style=for-the-badge&logo=mariadb&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/postgreesql-postgreesql?style=for-the-badge&logo=posrtgreesql&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/postgresql-postgresql?style=for-the-badge&logo=posrtgresql&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/sqlite-sqlite?style=for-the-badge&logo=sqlite&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mongodb-mongodb?style=for-the-badge&logo=mongodb&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/docker-docker?style=for-the-badge&logo=docker&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/git-git?style=for-the-badge&logo=git&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/github-github?style=for-the-badge&logo=github&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/gitlab-gitlab?style=for-the-badge&logo=gitlab&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/postman-postman?style=for-the-badge&logo=postman&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/vscode-vscode?style=for-the-badge&logo=vscode&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/php storm-php storm?style=for-the-badge&logo=phpstorm&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/web storm-web storm?style=for-the-badge&logo=webstorm&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/jira-jira?style=for-the-badge&logo=jira&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/youtrack-youtrack?style=for-the-badge&logo=youtrack&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/slack-slack?style=for-the-badge&logo=slack&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/filezilla-filezilla?style=for-the-badge&logo=filezilla&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
 </div>
 
