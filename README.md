@@ -26,11 +26,13 @@
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-javascript?style=for-the-badge&logo=javascript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/typescript-typescript?style=for-the-badge&logo=typescript&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/nodejs-nodejs?style=for-the-badge&logo=nodejs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/express.js-express.js?style=for-the-badge&logo=expressjs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/reactjs-reactjs?style=for-the-badge&logo=react&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vuejs-vuejs?style=for-the-badge&logo=vuejs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/vite-vite?style=for-the-badge&logo=vite&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/nextjs-nextjs?style=for-the-badge&logo=nextjs&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/jquery-jquery?style=for-the-badge&logo=jquery&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/electron-electron?style=for-the-badge&logo=electron&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/code igniter-code igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
@@ -38,6 +40,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/django-django?style=for-the-badge&logo=django&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/pygame-pygame?style=for-the-badge&logo=pygame&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/csharp-csharp?style=for-the-badge&logo=csharp&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/markdown-markdown?style=for-the-badge&logo=markdown&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mysql-mysql?style=for-the-badge&logo=mysql&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/mariadb-mariadb?style=for-the-badge&logo=mariadb&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/postgresql-postgresql?style=for-the-badge&logo=posrtgresql&color=%233c3c3c">
@@ -48,7 +51,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/github-github?style=for-the-badge&logo=github&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/gitlab-gitlab?style=for-the-badge&logo=gitlab&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/postman-postman?style=for-the-badge&logo=postman&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/vscode-vscode?style=for-the-badge&logo=vscode&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/visual studio code-visual studio code?style=for-the-badge&logo=visualstudiocode&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/phpstorm-phpstorm?style=for-the-badge&logo=phpstorm&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/webstorm-webstorm?style=for-the-badge&logo=webstorm&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/jira-jira?style=for-the-badge&logo=jira&color=%233c3c3c">
@@ -56,7 +59,21 @@
   <img src="https://custom-icon-badges.demolab.com/badge/slack-slack?style=for-the-badge&logo=slack&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/filezilla-filezilla?style=for-the-badge&logo=filezilla&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/dbeaver-dbeaver?style=for-the-badge&logo=dbeaver&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/bash-bash?style=for-the-badge&logo=bash&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/github pages-github pages?style=for-the-badge&logo=github&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/vercel-vercel?style=for-the-badge&logo=vercel&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/notion-notion?style=for-the-badge&logo=notion&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/adobe-adobe?style=for-the-badge&logo=adobe&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/linux-linux?style=for-the-badge&logo=linux&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/ubuntu-ubuntu?style=for-the-badge&logo=ubuntu&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/audacity-audacity?style=for-the-badge&logo=audacity&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/godot-godot?style=for-the-badge&logo=godot&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/unity-unity?style=for-the-badge&logo=unity&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/gimp-gimp?style=for-the-badge&logo=gimp&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/inkscape-inkscape?style=for-the-badge&logo=inkscape&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/photopea-photopea?style=for-the-badge&logo=photopea&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/google chrome-google chrome?style=for-the-badge&logo=googlechrome&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/obs-obs?style=for-the-badge&logo=obs&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/blender-blender?style=for-the-badge&logo=blender&color=%233c3c3c">
 </div>
 
 ###
