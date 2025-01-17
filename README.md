@@ -1,4 +1,5 @@
 <h2 align="center">Hi everybody 👋!</h2>
+
 <h2 align="center">
   <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=2000&color=D83B7D&center=true&width=800&lines=Full-stack+Web+and+Software+Developer;Game+Developer;3D+Modeler" alt="Typing SVG" /></a>
 </h2>
@@ -25,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="justify">
   <img src="https://custom-icon-badges.demolab.com/badge/html-html?style=for-the-badge&logo=html5&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/tailwind_css-tailwind_css?style=for-the-badge&logo=tailwind&color=%233c3c3c">
