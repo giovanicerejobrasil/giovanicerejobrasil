@@ -19,6 +19,20 @@
 ###
 
 <div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/html-html?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=html5&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/javascript-javascript?style=for-the-badge&logo=javascript&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/typescript-typescript?style=for-the-badge&logo=typescript&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
 </div>
 
