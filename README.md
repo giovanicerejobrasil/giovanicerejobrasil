@@ -33,12 +33,12 @@
   <img src="https://custom-icon-badges.demolab.com/badge/jquery-jquery?style=for-the-badge&logo=jquery&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/php-php?style=for-the-badge&logo=php&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/laravel-laravel?style=for-the-badge&logo=laravel&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
-  <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/code igniter-code igniter?style=for-the-badge&logo=codeigniter&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/mysql-mysql?style=for-the-badge&logo=mysql&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/mariadb-mariadb?style=for-the-badge&logo=mariadb&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/postgreesql-postgreesql?style=for-the-badge&logo=posrtgreesql&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/sqlite-sqlite?style=for-the-badge&logo=sqlite&color=%233c3c3c">
+  <img src="https://custom-icon-badges.demolab.com/badge/mongodb-mongodb?style=for-the-badge&logo=mongodb&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
   <img src="https://custom-icon-badges.demolab.com/badge/css-css?style=for-the-badge&logo=css3&color=%233c3c3c">
