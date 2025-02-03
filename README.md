@@ -19,10 +19,17 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&hide_title=false&layout=compact&langs_count=8&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" height="195" alt="languages graph"  />
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giovanicerejobrasil&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-jzxj.vercel.app?user=giovanicerejobrasil&theme=radical&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=giovanicerejobrasil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=true" alt="stats graph"  />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicerejobrasil&hide_title=false&layout=compact&langs_count=8&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" height="195" alt="languages graph"  />
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-jzxj.vercel.app?user=giovanicerejobrasil&theme=radical&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
